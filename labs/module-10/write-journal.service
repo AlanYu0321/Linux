@@ -1,0 +1,14 @@
+[Unit]
+Description=Script that writes a Hello message to the journal
+After=network.target
+
+[Service]
+Type=simple
+PIDFile=/run/bb.pid
+# Change the value of User to the value of the username for your system
+User=controller
+ExecStart=/usr/bin/python3 /usr/local/bin/write-journal.py
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target

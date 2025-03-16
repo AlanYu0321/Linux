@@ -1,0 +1,57 @@
+2024-11-09 14:44:43 - Created .ssh directory for Alan
+Generating public/private ed25519 key pair.
+Your identification has been saved in /home/Alan/.ssh/id_ed25519_Alan
+Your public key has been saved in /home/Alan/.ssh/id_ed25519_Alan.pub
+The key fingerprint is:
+SHA256:v0E9OMFkAL7jUbS/YbrLew3P/T2vzWkesgjqVpeGit4 root@alanyu
+The key's randomart image is:
++--[ED25519 256]--+
+|      ..o.o      |
+|     . . =       |
+|      . o o      |
+|       o . +     |
+|      + S O +    |
+|     . o B.B .   |
+|      o +.*= o . |
+|     ..+..oo= +=+|
+|    ..oE=+.. .+=O|
++----[SHA256]-----+
+2024-11-09 14:44:43 - Created SSH keys for Alan
+2024-11-09 14:44:43 - Created .ssh directory for Eathan
+Generating public/private ed25519 key pair.
+Your identification has been saved in /home/Eathan/.ssh/id_ed25519_Eathan
+Your public key has been saved in /home/Eathan/.ssh/id_ed25519_Eathan.pub
+The key fingerprint is:
+SHA256:mP67GiABqvQNOavWYc3GPhwT49S/YoaLSWyBqKshtMU root@alanyu
+The key's randomart image is:
++--[ED25519 256]--+
+|.                |
+|..  . .          |
+|...+ + .         |
+|+ +.@ oo.        |
+|oo.E.Xo S.       |
+|o B.*o+   .      |
+|++ = =o+ .       |
+|ooo o =o.        |
+|+  o ...+o       |
++----[SHA256]-----+
+2024-11-09 14:44:43 - Created SSH keys for Eathan
+2024-11-09 14:44:44 - Created .ssh directory for Kelly
+Generating public/private ed25519 key pair.
+Your identification has been saved in /home/Kelly/.ssh/id_ed25519_Kelly
+Your public key has been saved in /home/Kelly/.ssh/id_ed25519_Kelly.pub
+The key fingerprint is:
+SHA256:T2ibIU601g+K7QswACmsP9dbhv/tEwtnwNCREJZF1Xc root@alanyu
+The key's randomart image is:
++--[ED25519 256]--+
+|o.      +B++..   |
+|+.     .o o   . E|
+|+     .  o     ..|
+|..   . o .o      |
+| .o  .=.S ..     |
+|  oo.*o+oO. +    |
+|   oo +=o o+ o   |
+|     o. .  .o    |
+|      o. ...o.   |
++----[SHA256]-----+
+2024-11-09 14:44:44 - Created SSH keys for Kelly

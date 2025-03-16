@@ -1,0 +1,10 @@
+[Unit]
+Description=Run write-journal.service every 5 minutes
+
+[Timer]
+OnCalendar=*:0/5
+Unit=write-journal.service
+
+[Install]
+WantedBy=timers.target
+
